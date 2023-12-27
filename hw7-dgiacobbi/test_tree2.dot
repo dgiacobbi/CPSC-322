@@ -1,0 +1,30 @@
+digraph {
+	graph [rankdir=TB]
+	4487926416 [label="Attribute: direction" fillcolor=white shape=rectangle style=filled]
+	"\"4487926416_up\"" [label="Value: up" fillcolor=white shape=oval style=filled]
+	4487926416 -> "\"4487926416_up\""
+	"\"4487926416_up\"" -> 4487926224
+	4487926224 [label="c (6, 8, 75.0%)" fillcolor=white shape=oval style=filled]
+	"\"4487926416_down\"" [label="Value: down" fillcolor=white shape=oval style=filled]
+	4487926416 -> "\"4487926416_down\""
+	"\"4487926416_down\"" -> 4487925520
+	4487925520 [label="Attribute: type" fillcolor=white shape=rectangle style=filled]
+	"\"4487925520_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4487925520 -> "\"4487925520_1\""
+	"\"4487925520_1\"" -> 4487925776
+	4487925776 [label="a (2, 4, 50.0%)" fillcolor=white shape=oval style=filled]
+	"\"4487925520_1\"" -> 4487926096
+	4487926096 [label="b (1, 4, 25.0%)" fillcolor=white shape=oval style=filled]
+	"\"4487925520_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4487925520 -> "\"4487925520_2\""
+	"\"4487925520_2\"" -> 4487926096
+	4487926096 [label="b (1, 4, 25.0%)" fillcolor=white shape=oval style=filled]
+	"\"4487925520_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4487925520 -> "\"4487925520_3\""
+	"\"4487925520_3\"" -> 4487925648
+	4487925648 [label="c (1, 4, 25.0%)" fillcolor=white shape=oval style=filled]
+	"\"4487925520_4\"" [label="Value: 4" fillcolor=white shape=oval style=filled]
+	4487925520 -> "\"4487925520_4\""
+	"\"4487925520_4\"" -> 4487926160
+	4487926160 [label="b (2, 8, 25.0%)" fillcolor=white shape=oval style=filled]
+}

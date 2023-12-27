@@ -1,0 +1,212 @@
+digraph {
+	graph [rankdir=TB]
+	4488096656 [label="Attribute: cyls" fillcolor=white shape=rectangle style=filled]
+	"\"4488096656_8\"" [label="Value: 8" fillcolor=white shape=oval style=filled]
+	4488096656 -> "\"4488096656_8\""
+	"\"4488096656_8\"" -> 4488095248
+	4488095248 [label="Attribute: year" fillcolor=white shape=rectangle style=filled]
+	"\"4488095248_70\"" [label="Value: 70" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_70\""
+	"\"4488095248_70\"" -> 4488100624
+	4488100624 [label="1 (18, 18, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_71\"" [label="Value: 71" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_71\""
+	"\"4488095248_71\"" -> 4488092048
+	4488092048 [label="1 (7, 7, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_72\"" [label="Value: 72" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_72\""
+	"\"4488095248_72\"" -> 4488093648
+	4488093648 [label="1 (13, 13, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_73\"" [label="Value: 73" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_73\""
+	"\"4488095248_73\"" -> 4488090832
+	4488090832 [label="1 (20, 20, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_74\"" [label="Value: 74" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_74\""
+	"\"4488095248_74\"" -> 4488099280
+	4488099280 [label="1 (5, 5, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_75\"" [label="Value: 75" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_75\""
+	"\"4488095248_75\"" -> 4488094544
+	4488094544 [label="1 (5, 6, 83.33%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_76\"" [label="Value: 76" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_76\""
+	"\"4488095248_76\"" -> 4488100240
+	4488100240 [label="1 (9, 9, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_77\"" [label="Value: 77" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_77\""
+	"\"4488095248_77\"" -> 4488099536
+	4488099536 [label="1 (8, 8, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_78\"" [label="Value: 78" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_78\""
+	"\"4488095248_78\"" -> 4488094352
+	4488094352 [label="1 (5, 6, 83.33%)" fillcolor=white shape=oval style=filled]
+	"\"4488095248_79\"" [label="Value: 79" fillcolor=white shape=oval style=filled]
+	4488095248 -> "\"4488095248_79\""
+	"\"4488095248_79\"" -> 4488090320
+	4488090320 [label="1 (8, 10, 80.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488096656_4\"" [label="Value: 4" fillcolor=white shape=oval style=filled]
+	4488096656 -> "\"4488096656_4\""
+	"\"4488096656_4\"" -> 4488100816
+	4488100816 [label="Attribute: year" fillcolor=white shape=rectangle style=filled]
+	"\"4488100816_70\"" [label="Value: 70" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_70\""
+	"\"4488100816_70\"" -> 4488239888
+	4488239888 [label="2 (7, 7, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_71\"" [label="Value: 71" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_71\""
+	"\"4488100816_71\"" -> 4488094416
+	4488094416 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488094416_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488094416 -> "\"4488094416_3\""
+	"\"4488094416_3\"" -> 4488235472
+	4488235472 [label="2 (2, 4, 50.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488094416_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488094416 -> "\"4488094416_1\""
+	"\"4488094416_1\"" -> 4488099856
+	4488099856 [label="2 (4, 4, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488094416_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488094416 -> "\"4488094416_2\""
+	"\"4488094416_2\"" -> 4488099984
+	4488099984 [label="2 (2, 4, 50.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_72\"" [label="Value: 72" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_72\""
+	"\"4488100816_72\"" -> 4488100112
+	4488100112 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488100112_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488100112 -> "\"4488100112_3\""
+	"\"4488100112_3\"" -> 4488236240
+	4488236240 [label="2 (4, 4, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100112_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488100112 -> "\"4488100112_1\""
+	"\"4488100112_1\"" -> 4488094480
+	4488094480 [label="2 (5, 5, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100112_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488100112 -> "\"4488100112_2\""
+	"\"4488100112_2\"" -> 4488238352
+	4488238352 [label="2 (4, 5, 80.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_73\"" [label="Value: 73" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_73\""
+	"\"4488100816_73\"" -> 4488239120
+	4488239120 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488239120_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488239120 -> "\"4488239120_2\""
+	"\"4488239120_2\"" -> 4488236368
+	4488236368 [label="2 (6, 7, 85.71%)" fillcolor=white shape=oval style=filled]
+	"\"4488239120_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488239120 -> "\"4488239120_3\""
+	"\"4488239120_3\"" -> 4488235536
+	4488235536 [label="2 (2, 2, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488239120_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488239120 -> "\"4488239120_1\""
+	"\"4488239120_1\"" -> 4488235600
+	4488235600 [label="2 (1, 2, 50.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_74\"" [label="Value: 74" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_74\""
+	"\"4488100816_74\"" -> 4488236304
+	4488236304 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488236304_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488236304 -> "\"4488236304_3\""
+	"\"4488236304_3\"" -> 4488242896
+	4488242896 [label="3 (4, 6, 66.67%)" fillcolor=white shape=oval style=filled]
+	"\"4488236304_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488236304 -> "\"4488236304_1\""
+	"\"4488236304_1\"" -> 4488238800
+	4488238800 [label="2 (3, 3, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488236304_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488236304 -> "\"4488236304_2\""
+	"\"4488236304_2\"" -> 4488242640
+	4488242640 [label="2 (5, 6, 83.33%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_75\"" [label="Value: 75" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_75\""
+	"\"4488100816_75\"" -> 4488242512
+	4488242512 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488242512_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488242512 -> "\"4488242512_3\""
+	"\"4488242512_3\"" -> 4488243408
+	4488243408 [label="2 (3, 4, 75.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488242512_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488242512 -> "\"4488242512_1\""
+	"\"4488242512_1\"" -> 4488242384
+	4488242384 [label="2 (2, 2, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488242512_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488242512 -> "\"4488242512_2\""
+	"\"4488242512_2\"" -> 4488242704
+	4488242704 [label="2 (6, 6, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_76\"" [label="Value: 76" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_76\""
+	"\"4488100816_76\"" -> 4488242768
+	4488242768 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488242768_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488242768 -> "\"4488242768_2\""
+	"\"4488242768_2\"" -> 4488243536
+	4488243536 [label="2 (6, 7, 85.71%)" fillcolor=white shape=oval style=filled]
+	"\"4488242768_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488242768 -> "\"4488242768_1\""
+	"\"4488242768_1\"" -> 4488242960
+	4488242960 [label="2 (5, 5, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488242768_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488242768 -> "\"4488242768_3\""
+	"\"4488242768_3\"" -> 4488243024
+	4488243024 [label="3 (2, 3, 66.67%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_77\"" [label="Value: 77" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_77\""
+	"\"4488100816_77\"" -> 4488243472
+	4488243472 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488243472_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488243472 -> "\"4488243472_3\""
+	"\"4488243472_3\"" -> 4488245008
+	4488245008 [label="3 (3, 4, 75.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488243472_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488243472 -> "\"4488243472_1\""
+	"\"4488243472_1\"" -> 4488242448
+	4488242448 [label="3 (3, 6, 50.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488243472_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488243472 -> "\"4488243472_2\""
+	"\"4488243472_2\"" -> 4488244752
+	4488244752 [label="3 (2, 4, 50.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_78\"" [label="Value: 78" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_78\""
+	"\"4488100816_78\"" -> 4488245968
+	4488245968 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488245968_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488245968 -> "\"4488245968_2\""
+	"\"4488245968_2\"" -> 4488246096
+	4488246096 [label="3 (2, 3, 66.67%)" fillcolor=white shape=oval style=filled]
+	"\"4488245968_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488245968 -> "\"4488245968_1\""
+	"\"4488245968_1\"" -> 4488244944
+	4488244944 [label="3 (3, 6, 50.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488245968_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488245968 -> "\"4488245968_3\""
+	"\"4488245968_3\"" -> 4488245072
+	4488245072 [label="2 (5, 8, 62.5%)" fillcolor=white shape=oval style=filled]
+	"\"4488100816_79\"" [label="Value: 79" fillcolor=white shape=oval style=filled]
+	4488100816 -> "\"4488100816_79\""
+	"\"4488100816_79\"" -> 4488246032
+	4488246032 [label="Attribute: origin" fillcolor=white shape=rectangle style=filled]
+	"\"4488246032_1\"" [label="Value: 1" fillcolor=white shape=oval style=filled]
+	4488246032 -> "\"4488246032_1\""
+	"\"4488246032_1\"" -> 4488239952
+	4488239952 [label="3 (4, 7, 57.14%)" fillcolor=white shape=oval style=filled]
+	"\"4488246032_2\"" [label="Value: 2" fillcolor=white shape=oval style=filled]
+	4488246032 -> "\"4488246032_2\""
+	"\"4488246032_2\"" -> 4488244688
+	4488244688 [label="3 (2, 3, 66.67%)" fillcolor=white shape=oval style=filled]
+	"\"4488246032_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488246032 -> "\"4488246032_3\""
+	"\"4488246032_3\"" -> 4488246224
+	4488246224 [label="3 (2, 2, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4488096656_6\"" [label="Value: 6" fillcolor=white shape=oval style=filled]
+	4488096656 -> "\"4488096656_6\""
+	"\"4488096656_6\"" -> 4488234064
+	4488234064 [label="1 (45, 71, 63.38%)" fillcolor=white shape=oval style=filled]
+	"\"4488096656_3\"" [label="Value: 3" fillcolor=white shape=oval style=filled]
+	4488096656 -> "\"4488096656_3\""
+	"\"4488096656_3\"" -> 4488090192
+	4488090192 [label="1 (2, 3, 66.67%)" fillcolor=white shape=oval style=filled]
+	"\"4488096656_5\"" [label="Value: 5" fillcolor=white shape=oval style=filled]
+	4488096656 -> "\"4488096656_5\""
+	"\"4488096656_5\"" -> 4488233680
+	4488233680 [label="2 (2, 2, 100.0%)" fillcolor=white shape=oval style=filled]
+}

@@ -1,0 +1,316 @@
+18.0,307.0,"chevrolet chevelle malibu",12.0
+15.0,350.0,"buick skylark 320",11.5
+18.0,318.0,"plymouth satellite",11.0
+16.0,304.0,"amc rebel sst",12.0
+17.0,302.0,"ford torino",10.5
+15.0,429.0,"ford galaxie 500",10.0
+14.0,454.0,"chevrolet impala",9.0
+14.0,440.0,"plymouth fury iii",8.5
+14.0,455.0,"pontiac catalina",10.0
+15.0,390.0,"amc ambassador dpl",8.5
+nan,133.0,"citroen ds-21 pallas",17.5
+nan,350.0,"chevrolet chevelle concours (sw)",11.5
+nan,351.0,"ford torino (sw)",11.0
+nan,383.0,"plymouth satellite (sw)",10.5
+nan,360.0,"amc rebel sst (sw)",11.0
+15.0,383.0,"dodge challenger se",10.0
+14.0,340.0,"plymouth 'cuda 340",8.0
+nan,302.0,"ford mustang boss 302",8.0
+15.0,400.0,"chevrolet monte carlo s",9.5
+14.0,455.0,"buick estate wagon (sw)",10.0
+24.0,113.0,"toyota corona mark ii",15.0
+22.0,198.0,"plymouth duster",15.5
+18.0,199.0,"amc hornet",15.5
+21.0,200.0,"ford maverick",16.0
+27.0,97.0,"datsun pl510",14.5
+26.0,97.0,"volkswagen 1131 deluxe sedan",20.5
+25.0,110.0,"peugeot 504",17.5
+24.0,107.0,"audi 100 ls",14.5
+25.0,104.0,"saab 99e",17.5
+26.0,121.0,"bmw 2002",12.5
+21.0,199.0,"amc gremlin",15.0
+10.0,360.0,"ford f250",14.0
+10.0,307.0,"chevy c20",15.0
+11.0,318.0,"dodge d200",13.5
+9.0,304.0,"hi 1200d",18.5
+27.0,97.0,"datsun pl510",14.5
+28.0,140.0,"chevrolet vega 2300",15.5
+25.0,113.0,"toyota corona",14.0
+25.0,98.0,"ford pinto",19.0
+nan,97.0,"volkswagen super beetle 117",20.0
+19.0,232.0,"amc gremlin",13.0
+16.0,225.0,"plymouth satellite custom",15.5
+17.0,250.0,"chevrolet chevelle malibu",15.5
+19.0,250.0,"ford torino 500",15.5
+18.0,232.0,"amc matador",15.5
+14.0,350.0,"chevrolet impala",12.0
+14.0,400.0,"pontiac catalina brougham",11.5
+14.0,351.0,"ford galaxie 500",13.5
+14.0,318.0,"plymouth fury iii",13.0
+12.0,383.0,"dodge monaco (sw)",11.5
+13.0,400.0,"ford country squire (sw)",12.0
+13.0,400.0,"pontiac safari (sw)",12.0
+18.0,258.0,"amc hornet sportabout (sw)",13.5
+22.0,140.0,"chevrolet vega (sw)",19.0
+19.0,250.0,"pontiac firebird",15.0
+18.0,250.0,"ford mustang",14.5
+23.0,122.0,"mercury capri 2000",14.0
+28.0,116.0,"opel 1900",14.0
+30.0,79.0,"peugeot 304",19.5
+30.0,88.0,"fiat 124b",14.5
+31.0,71.0,"toyota corolla 1200",19.0
+35.0,72.0,"datsun 1200",18.0
+27.0,97.0,"volkswagen model 111",19.0
+26.0,91.0,"plymouth cricket",20.5
+24.0,113.0,"toyota corona hardtop",15.5
+25.0,97.5,"dodge colt hardtop",17.0
+23.0,97.0,"volkswagen type 3",23.5
+20.0,140.0,"chevrolet vega",19.5
+21.0,122.0,"ford pinto runabout",16.5
+13.0,350.0,"chevrolet impala",12.0
+14.0,400.0,"pontiac catalina",12.0
+15.0,318.0,"plymouth fury iii",13.5
+14.0,351.0,"ford galaxie 500",13.0
+17.0,304.0,"amc ambassador sst",11.5
+11.0,429.0,"mercury marquis",11.0
+13.0,350.0,"buick lesabre custom",13.5
+12.0,350.0,"oldsmobile delta 88 royale",13.5
+13.0,400.0,"chrysler newport royal",12.5
+19.0,70.0,"mazda rx2 coupe",13.5
+15.0,304.0,"amc matador (sw)",12.5
+13.0,307.0,"chevrolet chevelle concours (sw)",14.0
+13.0,302.0,"ford gran torino (sw)",16.0
+14.0,318.0,"plymouth satellite custom (sw)",14.0
+18.0,121.0,"volvo 145e (sw)",14.5
+22.0,121.0,"volkswagen 411 (sw)",18.0
+21.0,120.0,"peugeot 504 (sw)",19.5
+26.0,96.0,"renault 12 (sw)",18.0
+22.0,122.0,"ford pinto (sw)",16.0
+28.0,97.0,"datsun 510 (sw)",17.0
+23.0,120.0,"toyota corona mark ii (sw)",14.5
+28.0,98.0,"dodge colt (sw)",15.0
+27.0,97.0,"toyota corolla 1600 (sw)",16.5
+13.0,350.0,"buick century 350",13.0
+14.0,304.0,"amc matador",11.5
+13.0,350.0,"chevrolet malibu",13.0
+14.0,302.0,"ford gran torino",14.5
+15.0,318.0,"dodge coronet custom",12.5
+12.0,429.0,"mercury marquis brougham",11.5
+13.0,400.0,"chevrolet caprice classic",12.0
+13.0,351.0,"ford ltd",13.0
+14.0,318.0,"plymouth fury gran sedan",14.5
+13.0,440.0,"chrysler new yorker brougham",11.0
+12.0,455.0,"buick electra 225 custom",11.0
+13.0,360.0,"amc ambassador brougham",11.0
+18.0,225.0,"plymouth valiant",16.5
+16.0,250.0,"chevrolet nova custom",18.0
+18.0,232.0,"amc hornet",16.0
+18.0,250.0,"ford maverick",16.5
+23.0,198.0,"plymouth duster",16.0
+26.0,97.0,"volkswagen super beetle",21.0
+11.0,400.0,"chevrolet impala",14.0
+12.0,400.0,"ford country",12.5
+13.0,360.0,"plymouth custom suburb",13.0
+12.0,350.0,"oldsmobile vista cruiser",12.5
+18.0,232.0,"amc gremlin",15.0
+20.0,97.0,"toyota carina",19.0
+21.0,140.0,"chevrolet vega",19.5
+22.0,108.0,"datsun 610",16.5
+18.0,70.0,"maxda rx3",13.5
+19.0,122.0,"ford pinto",18.5
+21.0,155.0,"mercury capri v6",14.0
+26.0,98.0,"fiat 124 sport coupe",15.5
+15.0,350.0,"chevrolet monte carlo",13.0
+16.0,400.0,"pontiac grand prix",9.5
+29.0,68.0,"fiat 128",19.5
+24.0,116.0,"opel manta",15.5
+20.0,114.0,"audi 100ls",14.0
+19.0,121.0,"volvo 144ea",15.5
+15.0,318.0,"dodge dart custom",11.0
+24.0,121.0,"saab 99le",14.0
+20.0,156.0,"toyota mark ii",13.5
+11.0,350.0,"oldsmobile omega",11.0
+20.0,198.0,"plymouth duster",16.5
+21.0,200.0,"ford maverick",17.0
+19.0,232.0,"amc hornet",16.0
+15.0,250.0,"chevrolet nova",17.0
+31.0,79.0,"datsun b210",19.0
+26.0,122.0,"ford pinto",16.5
+32.0,71.0,"toyota corolla 1200",21.0
+25.0,140.0,"chevrolet vega",17.0
+16.0,250.0,"chevrolet chevelle malibu classic",17.0
+16.0,258.0,"amc matador",18.0
+18.0,225.0,"plymouth satellite sebring",16.5
+16.0,302.0,"ford gran torino",14.0
+13.0,350.0,"buick century luxus (sw)",14.5
+14.0,318.0,"dodge coronet custom (sw)",13.5
+14.0,302.0,"ford gran torino (sw)",16.0
+14.0,304.0,"amc matador (sw)",15.5
+29.0,98.0,"audi fox",16.5
+26.0,79.0,"volkswagen dasher",15.5
+26.0,97.0,"opel manta",14.5
+31.0,76.0,"toyota corona",16.5
+32.0,83.0,"datsun 710",19.0
+28.0,90.0,"dodge colt",14.5
+24.0,90.0,"fiat 128",15.5
+26.0,116.0,"fiat 124 tc",14.0
+24.0,120.0,"honda civic",15.0
+26.0,108.0,"subaru",15.5
+31.0,79.0,"fiat x1.9",16.0
+19.0,225.0,"plymouth valiant custom",16.0
+18.0,250.0,"chevrolet nova",16.0
+15.0,250.0,"mercury monarch",21.0
+15.0,250.0,"ford maverick",19.5
+16.0,400.0,"pontiac catalina",11.5
+15.0,350.0,"chevrolet bel air",14.0
+16.0,318.0,"plymouth grand fury",14.5
+14.0,351.0,"ford ltd",13.5
+17.0,231.0,"buick century",21.0
+16.0,250.0,"chevroelt chevelle malibu",18.5
+15.0,258.0,"amc matador",19.0
+18.0,225.0,"plymouth fury",19.0
+21.0,231.0,"buick skyhawk",15.0
+20.0,262.0,"chevrolet monza 2+2",13.5
+13.0,302.0,"ford mustang ii",12.0
+29.0,97.0,"toyota corolla",16.0
+23.0,140.0,"ford pinto",17.0
+20.0,232.0,"amc gremlin",16.0
+23.0,140.0,"pontiac astro",18.5
+24.0,134.0,"toyota corona",13.5
+25.0,90.0,"volkswagen dasher",16.5
+24.0,119.0,"datsun 710",17.0
+18.0,171.0,"ford pinto",14.5
+29.0,90.0,"volkswagen rabbit",14.0
+19.0,232.0,"amc pacer",17.0
+23.0,115.0,"audi 100ls",15.0
+23.0,120.0,"peugeot 504",17.0
+22.0,121.0,"volvo 244dl",14.5
+25.0,121.0,"saab 99le",13.5
+33.0,91.0,"honda civic cvcc",17.5
+28.0,107.0,"fiat 131",15.5
+25.0,116.0,"opel 1900",16.9
+25.0,140.0,"capri ii",14.9
+26.0,98.0,"dodge colt",17.7
+27.0,101.0,"renault 12tl",15.3
+17.5,305.0,"chevrolet chevelle malibu classic",13.0
+16.0,318.0,"dodge coronet brougham",13.0
+15.5,304.0,"amc matador",13.9
+14.5,351.0,"ford gran torino",12.8
+22.0,225.0,"plymouth valiant",15.4
+22.0,250.0,"chevrolet nova",14.5
+24.0,200.0,"ford maverick",17.6
+22.5,232.0,"amc hornet",17.6
+29.0,85.0,"chevrolet chevette",22.2
+24.5,98.0,"chevrolet woody",22.1
+29.0,90.0,"vw rabbit",14.2
+33.0,91.0,"honda civic",17.4
+20.0,225.0,"dodge aspen se",17.7
+18.0,250.0,"ford granada ghia",21.0
+18.5,250.0,"pontiac ventura sj",16.2
+17.5,258.0,"amc pacer d/l",17.8
+29.5,97.0,"volkswagen rabbit",12.2
+32.0,85.0,"datsun b-210",17.0
+28.0,97.0,"toyota corolla",16.4
+26.5,140.0,"ford pinto",13.6
+20.0,130.0,"volvo 245",15.7
+13.0,318.0,"plymouth volare premier v8",13.2
+19.0,120.0,"peugeot 504",21.9
+19.0,156.0,"toyota mark ii",15.5
+16.5,168.0,"mercedes-benz 280s",16.7
+16.5,350.0,"cadillac seville",12.1
+13.0,350.0,"chevy c10",12.0
+13.0,302.0,"ford f108",15.0
+13.0,318.0,"dodge d100",14.0
+31.5,98.0,"honda accord cvcc",18.5
+30.0,111.0,"buick opel isuzu deluxe",14.8
+36.0,79.0,"renault 5 gtl",18.6
+25.5,122.0,"plymouth arrow gs",15.5
+33.5,85.0,"datsun f-10 hatchback",16.8
+17.5,305.0,"chevrolet caprice classic",12.5
+17.0,260.0,"oldsmobile cutlass supreme",19.0
+15.5,318.0,"dodge monaco brougham",13.7
+15.0,302.0,"mercury cougar brougham",14.9
+17.5,250.0,"chevrolet concours",16.4
+20.5,231.0,"buick skylark",16.9
+19.0,225.0,"plymouth volare custom",17.7
+18.5,250.0,"ford granada",19.0
+16.0,400.0,"pontiac grand prix lj",11.1
+15.5,350.0,"chevrolet monte carlo landau",11.4
+15.5,400.0,"chrysler cordoba",12.2
+16.0,351.0,"ford thunderbird",14.5
+29.0,97.0,"volkswagen rabbit custom",14.5
+24.5,151.0,"pontiac sunbird coupe",16.0
+26.0,97.0,"toyota corolla liftback",18.2
+25.5,140.0,"ford mustang ii 2+2",15.8
+30.5,98.0,"chevrolet chevette",17.0
+33.5,98.0,"dodge colt m/m",15.9
+30.0,97.0,"subaru dl",16.4
+30.5,97.0,"volkswagen dasher",14.1
+22.0,146.0,"datsun 810",14.5
+21.5,121.0,"bmw 320i",12.8
+21.5,80.0,"mazda rx-4",13.5
+43.1,90.0,"volkswagen rabbit custom diesel",21.5
+36.1,98.0,"ford fiesta",14.4
+32.8,78.0,"mazda glc deluxe",19.4
+39.4,85.0,"datsun b210 gx",18.6
+36.1,91.0,"honda civic cvcc",16.4
+19.9,260.0,"oldsmobile cutlass salon brougham",15.5
+19.4,318.0,"dodge diplomat",13.2
+20.2,302.0,"mercury monarch ghia",12.8
+19.2,231.0,"pontiac phoenix lj",19.2
+20.5,200.0,"chevrolet malibu",18.2
+20.2,200.0,"ford fairmont (auto)",15.8
+25.1,140.0,"ford fairmont (man)",15.4
+20.5,225.0,"plymouth volare",17.2
+19.4,232.0,"amc concord",17.2
+20.6,231.0,"buick century special",15.8
+20.8,200.0,"mercury zephyr",16.7
+18.6,225.0,"dodge aspen",18.7
+18.1,258.0,"amc concord d/l",15.1
+19.2,305.0,"chevrolet monte carlo landau",13.2
+17.7,231.0,"buick regal sport coupe (turbo)",13.4
+18.1,302.0,"ford futura",11.2
+17.5,318.0,"dodge magnum xe",13.7
+30.0,98.0,"chevrolet chevette",16.5
+27.5,134.0,"toyota corona",14.2
+27.2,119.0,"datsun 510",14.7
+30.9,105.0,"dodge omni",14.5
+21.1,134.0,"toyota celica gt liftback",14.8
+23.2,156.0,"plymouth sapporo",16.7
+23.8,151.0,"oldsmobile starfire sx",17.6
+23.9,119.0,"datsun 200-sx",14.9
+20.3,131.0,"audi 5000",15.9
+17.0,163.0,"volvo 264gl",13.6
+21.6,121.0,"saab 99gle",15.7
+16.2,163.0,"peugeot 604sl",15.8
+31.5,89.0,"volkswagen scirocco",14.9
+29.5,98.0,"honda accord lx",16.6
+21.5,231.0,"pontiac lemans v6",15.4
+19.8,200.0,"mercury zephyr 6",18.2
+22.3,140.0,"ford fairmont 4",17.3
+20.2,232.0,"amc concord dl 6",18.2
+20.6,225.0,"dodge aspen 6",16.6
+17.0,305.0,"chevrolet caprice classic",15.4
+17.6,302.0,"ford ltd landau",13.4
+16.5,351.0,"mercury grand marquis",13.2
+18.2,318.0,"dodge stregis",15.2
+16.9,350.0,"buick estate wagon (sw)",14.9
+15.5,351.0,"ford country squire (sw)",14.3
+19.2,267.0,"chevrolet malibu classic (sw)",15.0
+18.5,360.0,"chrysler lebaron town @ country (sw)",13.0
+31.9,89.0,"vw rabbit custom",14.0
+34.1,86.0,"maxda glc deluxe",15.2
+35.7,98.0,"dodge colt hatchback custom",14.4
+27.4,121.0,"amc spirit dl",15.0
+25.4,183.0,"mercedes benz 300d",20.1
+23.0,350.0,"cadillac eldorado",17.4
+27.2,141.0,"peugeot 504",24.8
+23.9,260.0,"oldsmobile cutlass salon brougham",22.2
+34.2,105.0,"plymouth horizon",13.2
+34.5,105.0,"plymouth horizon tc3",14.9
+31.8,85.0,"datsun 210",19.2
+37.3,91.0,"fiat strada custom",14.7
+28.4,151.0,"buick skylark limited",16.0
+28.8,173.0,"chevrolet citation",11.3
+26.8,173.0,"oldsmobile omega brougham",12.9
+33.5,151.0,"pontiac phoenix",13.2

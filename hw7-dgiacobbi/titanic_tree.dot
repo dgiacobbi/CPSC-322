@@ -1,0 +1,120 @@
+digraph {
+	graph [rankdir=TB]
+	4479220944 [label="Attribute: gender" fillcolor=white shape=rectangle style=filled]
+	"\"4479220944_female\"" [label="Value: female" fillcolor=white shape=oval style=filled]
+	4479220944 -> "\"4479220944_female\""
+	"\"4479220944_female\"" -> 4490396048
+	4490396048 [label="Attribute: class" fillcolor=white shape=rectangle style=filled]
+	"\"4490396048_crew\"" [label="Value: crew" fillcolor=white shape=oval style=filled]
+	4490396048 -> "\"4490396048_crew\""
+	"\"4490396048_crew\"" -> 4489935760
+	4489935760 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4489935760_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4489935760 -> "\"4489935760_adult\""
+	"\"4489935760_adult\"" -> 4489876176
+	4489876176 [label="yes (118, 175, 67.43%)" fillcolor=white shape=oval style=filled]
+	"\"4489935760_adult\"" -> 4489875472
+	4489875472 [label="no (57, 175, 32.57%)" fillcolor=white shape=oval style=filled]
+	"\"4489935760_child\"" [label="Value: child" fillcolor=white shape=oval style=filled]
+	4489935760 -> "\"4489935760_child\""
+	"\"4489935760_child\"" -> 4491046352
+	4491046352 [label="no (5, 5, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4490396048_third\"" [label="Value: third" fillcolor=white shape=oval style=filled]
+	4490396048 -> "\"4490396048_third\""
+	"\"4490396048_third\"" -> 4490375824
+	4490375824 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4490375824_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4490375824 -> "\"4490375824_adult\""
+	"\"4490375824_adult\"" -> 4491155344
+	4491155344 [label="no (192, 862, 22.27%)" fillcolor=white shape=oval style=filled]
+	"\"4490375824_adult\"" -> 4491155280
+	4491155280 [label="yes (670, 862, 77.73%)" fillcolor=white shape=oval style=filled]
+	"\"4490396048_second\"" [label="Value: second" fillcolor=white shape=oval style=filled]
+	4490396048 -> "\"4490396048_second\""
+	"\"4490396048_second\"" -> 4489908624
+	4489908624 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4489908624_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4489908624 -> "\"4489908624_adult\""
+	"\"4489908624_adult\"" -> 4490421456
+	4490421456 [label="yes (387, 462, 83.77%)" fillcolor=white shape=oval style=filled]
+	"\"4489908624_adult\"" -> 4490421520
+	4490421520 [label="no (75, 462, 16.23%)" fillcolor=white shape=oval style=filled]
+	"\"4489908624_child\"" [label="Value: child" fillcolor=white shape=oval style=filled]
+	4489908624 -> "\"4489908624_child\""
+	"\"4489908624_child\"" -> 4490175504
+	4490175504 [label="yes (35, 48, 72.92%)" fillcolor=white shape=oval style=filled]
+	"\"4489908624_child\"" -> 4490176208
+	4490176208 [label="no (13, 48, 27.08%)" fillcolor=white shape=oval style=filled]
+	"\"4490396048_first\"" [label="Value: first" fillcolor=white shape=oval style=filled]
+	4490396048 -> "\"4490396048_first\""
+	"\"4490396048_first\"" -> 4489933008
+	4489933008 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4489933008_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4489933008 -> "\"4489933008_adult\""
+	"\"4489933008_adult\"" -> 4490365136
+	4490365136 [label="yes (154, 168, 91.67%)" fillcolor=white shape=oval style=filled]
+	"\"4489933008_adult\"" -> 4490364112
+	4490364112 [label="no (14, 168, 8.33%)" fillcolor=white shape=oval style=filled]
+	"\"4489933008_child\"" [label="Value: child" fillcolor=white shape=oval style=filled]
+	4489933008 -> "\"4489933008_child\""
+	"\"4489933008_child\"" -> 4489932560
+	4489932560 [label="no (11, 11, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4479220944_male\"" [label="Value: male" fillcolor=white shape=oval style=filled]
+	4479220944 -> "\"4479220944_male\""
+	"\"4479220944_male\"" -> 4489876944
+	4489876944 [label="Attribute: class" fillcolor=white shape=rectangle style=filled]
+	"\"4489876944_first\"" [label="Value: first" fillcolor=white shape=oval style=filled]
+	4489876944 -> "\"4489876944_first\""
+	"\"4489876944_first\"" -> 4491035024
+	4491035024 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4491035024_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4491035024 -> "\"4491035024_adult\""
+	"\"4491035024_adult\"" -> 4490407760
+	4490407760 [label="no (80, 93, 86.02%)" fillcolor=white shape=oval style=filled]
+	"\"4491035024_adult\"" -> 4490409040
+	4490409040 [label="yes (13, 93, 13.98%)" fillcolor=white shape=oval style=filled]
+	"\"4491035024_child\"" [label="Value: child" fillcolor=white shape=oval style=filled]
+	4491035024 -> "\"4491035024_child\""
+	"\"4491035024_child\"" -> 4489871440
+	4489871440 [label="no (13, 13, 100.0%)" fillcolor=white shape=oval style=filled]
+	"\"4489876944_second\"" [label="Value: second" fillcolor=white shape=oval style=filled]
+	4489876944 -> "\"4489876944_second\""
+	"\"4489876944_second\"" -> 4490406864
+	4490406864 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4490406864_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4490406864 -> "\"4490406864_adult\""
+	"\"4490406864_adult\"" -> 4489934864
+	4489934864 [label="yes (89, 165, 53.94%)" fillcolor=white shape=oval style=filled]
+	"\"4490406864_adult\"" -> 4489922704
+	4489922704 [label="no (76, 165, 46.06%)" fillcolor=white shape=oval style=filled]
+	"\"4490406864_child\"" [label="Value: child" fillcolor=white shape=oval style=filled]
+	4490406864 -> "\"4490406864_child\""
+	"\"4490406864_child\"" -> 4490401680
+	4490401680 [label="yes (17, 31, 54.84%)" fillcolor=white shape=oval style=filled]
+	"\"4490406864_child\"" -> 4490397328
+	4490397328 [label="no (14, 31, 45.16%)" fillcolor=white shape=oval style=filled]
+	"\"4489876944_third\"" [label="Value: third" fillcolor=white shape=oval style=filled]
+	4489876944 -> "\"4489876944_third\""
+	"\"4489876944_third\"" -> 4489887440
+	4489887440 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4489887440_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4489887440 -> "\"4489887440_adult\""
+	"\"4489887440_adult\"" -> 4489999632
+	4489999632 [label="no (20, 23, 86.96%)" fillcolor=white shape=oval style=filled]
+	"\"4489887440_adult\"" -> 4489996624
+	4489996624 [label="yes (3, 23, 13.04%)" fillcolor=white shape=oval style=filled]
+	"\"4489876944_crew\"" [label="Value: crew" fillcolor=white shape=oval style=filled]
+	4489876944 -> "\"4489876944_crew\""
+	"\"4489876944_crew\"" -> 4491048528
+	4491048528 [label="Attribute: age" fillcolor=white shape=rectangle style=filled]
+	"\"4491048528_adult\"" [label="Value: adult" fillcolor=white shape=oval style=filled]
+	4491048528 -> "\"4491048528_adult\""
+	"\"4491048528_adult\"" -> 4489931536
+	4489931536 [label="no (140, 144, 97.22%)" fillcolor=white shape=oval style=filled]
+	"\"4491048528_adult\"" -> 4489924944
+	4489924944 [label="yes (4, 144, 2.78%)" fillcolor=white shape=oval style=filled]
+	"\"4491048528_child\"" [label="Value: child" fillcolor=white shape=oval style=filled]
+	4491048528 -> "\"4491048528_child\""
+	"\"4491048528_child\"" -> 4491048720
+	4491048720 [label="no (1, 1, 100.0%)" fillcolor=white shape=oval style=filled]
+}
